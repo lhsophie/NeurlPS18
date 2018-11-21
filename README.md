@@ -7,7 +7,7 @@ paper: https://arxiv.org/abs/1806.01468
 
 video: https://youtu.be/lOCoa3hYR4Y
 
-poster: https://github.com/yzhang672/NeurlPS18/poster
+poster: https://github.com/yzhang672/NeurlPS18/regCut-poster.pdf
 
 
 
